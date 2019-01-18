@@ -37,3 +37,4 @@ function getCurrentDate() {
         var second = (currentDate.getSeconds() < 10 ? '0' : '') + currentDate.getSeconds();
         return year + "-" + month + "-" + day + " " + hour + ":" + minute + ":" + second;
 }
+
