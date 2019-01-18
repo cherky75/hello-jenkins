@@ -1,0 +1,6 @@
+{
+	"name": "ChatJs",
+	"dependencies": {
+		"socketio":""
+	}
+}
